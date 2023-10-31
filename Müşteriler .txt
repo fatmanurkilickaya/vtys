@@ -1,0 +1,1 @@
+="INSERT INTO CCUSTOMER_DATA VALUES ('"&A2&"', '"&B2&"', '"&C2&"', '"&D2&"', '"&E2&"');"
