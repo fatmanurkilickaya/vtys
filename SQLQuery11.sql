@@ -35,14 +35,14 @@ alim_fiyati DOUBLE PRECISION
 
 select * from Musteri
 
-insert into Musteri values ('Turgut','Özseven','Turhal/Tokat',121646);
-insert into Musteri values ('Turgut','Özseven','Turhal/Tokat',12164);
-insert into Musteri values ('Mustafa','Çağlayan','Meram/Konya',46524);
+insert into Musteri values ('Turgut','Ã–zseven','Turhal/Tokat',121646);
+insert into Musteri values ('Turgut','Ã–zseven','Turhal/Tokat',12164);
+insert into Musteri values ('Mustafa','Ã‡aÃ°layan','Meram/Konya',46524);
 insert into Musteri values ('Ahmet','Kara','Zile/Tokat',47237);
 insert into Musteri values ('Murat','Beyaz','Turhal/Tokat',385235);
-insert into Musteri values ('Elif','Kurt','Beşiktaş/İstanbul',9487);
-insert into Musteri values ('Ayşe','Uçar','Taşova/Amasya',48739);
-insert into Musteri values ('Bülent','Ayar','Turhal/Tokat',23237);
+insert into Musteri values ('Elif','Kurt','BeÃ¾iktaÃ¾/Ãstanbul',9487);
+insert into Musteri values ('AyÃ¾e','UÃ§ar','TaÃ¾ova/Amasya',48739);
+insert into Musteri values ('BÃ¼lent','Ayar','Turhal/Tokat',23237);
 
 insert into Arac values ('2004','Fiat Marea','38 VTYS 3838',100000);
 insert into Arac values ('2020','Renault Megane','38 VTYS 3839',110000);
@@ -51,10 +51,10 @@ insert into Arac values ('2023','Volkswagen Golf','38  VTYS 3841',250000);
 insert into Arac values ('2000','Opel Astra','38  VTYS 3842',82000);
 
 
-insert into Satis values (1,1,'44685',170000);
-insert into Satis values (4,5,'43983',115000);
-insert into Satis values (7,4,'45092',270000);
-insert into Satis values (2,1,'40361',17500);
+insert into Satis values (1,1,'2023-01-01',170000);
+insert into Satis values (4,5,'2022-05-01',115000);
+insert into Satis values (7,4,'2020-04-07',270000);
+insert into Satis values (2,1,'2019-06-07',17500);
 
 
 
